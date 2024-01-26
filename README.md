@@ -1,4 +1,8 @@
 ### Hi there 👋
 
-I am Art from the Philippines, and I am interested in data science and machine learning. I am currently doing my thesis about image processing in deep learning which helps me explore about my chosen field. 
+I am Art from the Philippines, and I am interested in Data Science and Machine Learning. I am currently doing my thesis about Image Processing in Deep Learning which helps me explore about my chosen field.
+
+#### Skills
+PHP | SQL | PYTHON | CSS | HTML | JAVASCRIPT | C#
+
 
