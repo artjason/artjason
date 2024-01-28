@@ -4,7 +4,7 @@ I am Art from the Philippines, and I am interested in Data Science and Machine L
 Nevertheless, I also have experiences with Android Programming and Computer Networking which makes me more flexible to job opportunities in the future.
 
 #### Skills
-PHP | SQL | PYTHON | CSS | HTML | JAVASCRIPT | C# 
+PHP | SQL | PYTHON | TAILWIND CSS | HTML | JAVASCRIPT | C# 
 
 ##### Computer Networks
 <img src = "https://github.com/artjason/artjason/assets/156570446/b8796108-3180-47f1-be17-470d5a1b095a" width = 300 height = 250>
