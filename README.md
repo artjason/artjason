@@ -11,6 +11,7 @@ PHP LARAVEL | SQL | PYTHON | TAILWIND CSS | HTML | JAVASCRIPT | C#
 
  ##### Web Projects
  ![laravel-movies](https://github.com/artjason/artjason/assets/156570446/ba8b0891-7e5a-4bf4-a4e3-d923c14260d0)
+ <br>
   <img src = "https://github.com/artjason/artjason/assets/156570446/0d7d91ef-5f03-42cd-a785-808bea0a195e">
  
  ##### Android Projects
