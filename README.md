@@ -11,7 +11,7 @@ PHP LARAVEL | SQL | PYTHON | TAILWIND CSS | HTML | JAVASCRIPT | C#
 <img src = "https://github.com/artjason/artjason/assets/156570446/31c06053-a433-4c4e-a899-85252a1a0ffd" width = 300 height = 250>
 
  ##### Android & Web Projects
- ![laravel-movies](https://github.com/artjason/artjason/assets/156570446/f340c5a6-0bb3-41b3-aef8-51826c18fbdc)
+ <img src = " https://github.com/artjason/artjason/assets/156570446/f340c5a6-0bb3-41b3-aef8-51826c18fbdc" width = 320 height = 250>
  <img src = "https://github.com/artjason/artjason/assets/156570446/0d7d91ef-5f03-42cd-a785-808bea0a195e" width = 320 height = 250>
  <img src = "https://github.com/artjason/artjason/assets/156570446/e04ce9e0-f519-4729-b06b-9daac17dd918" width = 320 height = 250>
  <br>
