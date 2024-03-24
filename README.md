@@ -7,7 +7,7 @@ Nevertheless, I also have experiences with Android Programming and Computer Netw
 PHP LARAVEL | SQL | PYTHON | TAILWIND CSS | HTML | JAVASCRIPT | C# 
 
 ##### Computer Networks
-<img src = "https://github.com/artjason/artjason/assets/156570446/b8796108-3180-47f1-be17-470d5a1b095a" width = 300 height = 250>
+<img src = "![laravel-movies](https://github.com/artjason/artjason/assets/156570446/8ac88332-9eda-4884-ba22-1d0f535710e4)" width = 300 height = 250>
 <img src = "https://github.com/artjason/artjason/assets/156570446/31c06053-a433-4c4e-a899-85252a1a0ffd" width = 300 height = 250>
 
  ##### Android & Web Projects
