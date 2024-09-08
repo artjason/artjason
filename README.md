@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I am Art from the Philippines, and I am interested in Data Science and Machine Learning. I am currently doing my thesis about Image Processing in Deep Learning which helps me explore my chosen field.
-Nevertheless, I also have experiences with Android Programming and Computer Networking which makes me more flexible to job opportunities in the future.
+I am Art from the Philippines, and I am interested in Data Science and Machine Learning. I also have experiences with Android Programming and Computer Networking which makes me more flexible to job opportunities in the future.
 
 #### Skills
 PHP LARAVEL | SQL | C++ | C | C# | TAILWIND CSS | HTML | Alpine js
